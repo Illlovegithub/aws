@@ -2,6 +2,13 @@
 stuff
 
 ## Short notes
+Root account: Admin account. Should only be used for admin purposes e.g. creating new accounts/groups, billing etc.
+
+IAM account: These are the actual user accounts. 
+- Alias: KetelsenKent
+- Username: ketelsen
+- Password: IS IT A QUEEN ? 
+
 ec2 url: ec2-3-126-51-67.eu-central-1.compute.amazonaws.com
 username: ubuntu
 Note: See desktop ssh config file for full setup
